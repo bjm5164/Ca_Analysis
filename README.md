@@ -1,7 +1,4 @@
----
-title: "README"
 
----
 
 This repository contains calcium imaging analysis scripts written MATLAB used for: "Regulation of subcellular dendritic synapse specificity by axon guidance cues" by Sales et al 2019.  The scripts use the open microscopy bioformats package to read either .czi or .tif files, although they can be easily adapted for any file type.  
 
