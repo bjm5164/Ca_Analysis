@@ -30,5 +30,5 @@ DEPENDENCIES:
 
 
 For any questions, contact me at
-bmark@uoregon.edu
+bjm5164@gmail.com
 -Brandon Mark
